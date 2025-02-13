@@ -5,6 +5,17 @@
     text-shadow: 2px 2px 4px #000000;
 }
 
+textarea {
+    padding-top: 3%;
+    resize: none;
+    font-size: 130%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 67%;
+    border-radius: 20px;
+    border-color: white;
+    padding-left: 3%;
+}
+
 .div-border2 {
     background-color: aliceblue;
     border-radius: 6px;
